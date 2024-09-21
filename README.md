@@ -15,19 +15,14 @@
 <br>
 
 
-<h3 align="center">Motivation</h3>
-<p align="center">
+<h3 align="center">Motivation & Studying Live</h3>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
     <a href="https://www.youtube.com/watch?v=nAxsWJrQacA">
         <img src="https://ytcards.demolab.com/?id=nAxsWJrQacA&title=Find+something+to+believe+in...&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=257" alt="Find something to believe in..." />
     </a>
-</p>
-
-<h3 align="center">Studying Live</h3>
-<p align="center">
     <a href="https://www.youtube.com/watch?v=SoLbanQeOJc&list=PLOm4Uk0WqfCsnVnXI1bgi8M1a8PzUhf_o">
         <img src="https://ytcards.demolab.com/?id=SoLbanQeOJc&title=The+%22coding+point%22+-+1&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=3875" alt="The 'coding point' - 1" />
     </a>
-    &nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/watch?v=x22wAcpyBs8&list=PLOm4Uk0WqfCvswfAJLHgJrbNFmCOIl4AA&index=35">
         <img src="https://ytcards.demolab.com/?id=x22wAcpyBs8&title=The+%22study+point%22+-+1&lang=en&timestamp=1693396800&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=7325" alt="The 'study point' - 1" />
     </a>
