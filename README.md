@@ -22,8 +22,6 @@
     </a>
 </p>
 
-<br>
-
 <h3 align="center">Studying Live</h3>
 <p align="center">
     <a href="https://www.youtube.com/watch?v=SoLbanQeOJc&list=PLOm4Uk0WqfCsnVnXI1bgi8M1a8PzUhf_o">
