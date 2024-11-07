@@ -10,7 +10,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
     <a href="http://skillicons.dev">
-        <img src="http://skillicons.dev/icons?i=arduino,c,cpp,python,linux,mysql,vscode,vim" />
+        <img src="http://skillicons.dev/icons?i=obsidian,c,cpp,cs,python,windows,linux,arch,ubuntu,mysql,vscode,visualstudio,vim" />
         <https://github.com/tandpfun/skill-icons?tab=readme-ov-file#icons-list>
     </a>
 </div>
